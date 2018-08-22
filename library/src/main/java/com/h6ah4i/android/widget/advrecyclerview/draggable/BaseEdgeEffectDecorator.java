@@ -18,7 +18,7 @@ package com.h6ah4i.android.widget.advrecyclerview.draggable;
 
 import android.graphics.Canvas;
 import android.support.v4.view.ViewCompat;
-import android.support.v4.widget.EdgeEffectCompat;
+import android.support.v4.widget.EdgeEffectCompat;  // 这个类在26以上也无法找到
 import android.support.v7.widget.RecyclerView;
 import android.widget.EdgeEffect;
 
